@@ -1,0 +1,21 @@
+{
+    "columns": 
+        {
+            "new": {
+                "title": "New Applied",
+                "items": []
+            },
+            "screening": {
+                "title": "Screening",
+                "items": []
+            },
+            "challenge": {
+                "title": "Test challenge",
+                "items": []
+            },
+            "interview": {
+                "title": "Interview",
+                "items": []
+            }
+        }
+}
